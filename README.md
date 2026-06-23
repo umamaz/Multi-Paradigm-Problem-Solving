@@ -25,8 +25,9 @@ The same problem was implemented using three different programming paradigms:
 
 ## Files Included
 
-Statistics-Calculator/
+Multi-Paradigm-Problem-Solving/
 
+- Multi Paradigm Problem Solving.docx
 - stats.c
 - stats.ml
 - stats.py

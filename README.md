@@ -27,7 +27,7 @@ The same problem was implemented using three different programming paradigms:
 
 Multi-Paradigm-Problem-Solving/
 
-- Multi Paradigm Problem Solving.docx
+- Multi Paradigm Problem Solving.docx 
 - stats.c
 - stats.ml
 - stats.py
